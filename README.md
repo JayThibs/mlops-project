@@ -1,4 +1,4 @@
-project_name
+MLOps Project
 ==============================
 
  This is a test project for the entire mlops pipeline.
@@ -52,6 +52,4 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
